@@ -6,7 +6,8 @@ Our team's objective is to predict the likelihood of an individual suffering fro
 The main source codes can be accessed in the following order:
   1. Data Extraction
   2. Data Visualization
-  3. Random Forest Regression
+  3. Sleep Disorder Analysis
+  4. Stress Analysis
      
 ### Contributors
 - @
@@ -14,17 +15,18 @@ The main source codes can be accessed in the following order:
 - @
 
 ### Problem Definition
-- Are we able to predict whether one is suffering from sleep disorder based on the factors related to one's lifestyle choices and state of health?
-- Which model would be the best to predict it?
-- Which factors have the most importance in this prediction?
+Problem Definition: Finding out the reasons that will explain why people have high stress levels and experience sleep disorders. How do different variables affect the stress level and the likelihood of sleep disorders?
+
+Motivation: Many of our peers are experiencing high levels of stress, while struggling with sleep disorders, and they get overwhelmed without knowing how to reduce it. As students, we are highly exposed to stress and to better manage it, it would be beneficial to know the factors that causes it.
 
 ### Models Used
-  1. Random Forest Regression
-  2. 
+Sleep Disorder
+  1. Logistic Regression
+  2. Random Forest Regression
+Stress
+  1. 
 
 ### Conclusion
-
-[Random Forest Regression]
 - The most important factors that influence the prediction of one being sleep deprived is
   1. BMI 
   2. Blood Pressure
@@ -32,7 +34,7 @@ The main source codes can be accessed in the following order:
 - 
 ### What did we learn from this project?
 - Random Forest (Feature Importance, Cross Validation)
-- 
+- Logistic Regression
 ### References
 - https://www.kaggle.com/datasets/henryshan/sleep-health-and-lifestyle
 - 
