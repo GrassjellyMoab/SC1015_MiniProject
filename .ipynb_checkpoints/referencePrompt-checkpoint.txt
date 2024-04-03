@@ -16,7 +16,7 @@ Feature Selection:
 Identify relevant features that could potentially affect the likelihood of having a sleep disorder. This could involve analyzing correlations or using domain knowledge.
 Model Selection:
 
-Choose appropriate machine learning models for classification tasks. Since we're predicting the likelihood of having a sleep disorder, classification models such as Logistic Regression(baseline model), Random Forest(not bad accuracy), Support Vector Machine, or Gradient Boosting(THE BEST) could be suitable candidates.
+Choose appropriate machine learning models for classification tasks. Since we're predicting the likelihood of having a sleep disorder, classification models such as Logistic Regression, Random Forest, Support Vector Machine, or Gradient Boosting could be suitable candidates.
 Model Training and Evaluation:
 
 Split the dataset into training and testing sets.
