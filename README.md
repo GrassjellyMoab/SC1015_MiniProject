@@ -26,10 +26,10 @@ Motivation: Many of our peers are experiencing high levels of stress, while stru
 - We conclude that using the variables : BMI Category, Sleep Duration and Quality of Sleep, can be used to predict the likelihood of suffering from sleep disorders
 - We also conclude that using the variables : Sleep Duration, Quality of Sleep and Level of Physical Health, can be used to predict the likelihood of suffering from high stress levels
 - Based on the data, we also observed that these are the optimal values for the variables that we tested:
-  BMI Category : Normal
-  Quality of Sleep : 7.5 / 10
-  Duration of Sleep : > 7.4 hours
-  Level of Physical Health : > 75 minutes/day
+  - BMI Category : Normal
+  - Quality of Sleep : 7.5 / 10
+  - Duration of Sleep : > 7.4 hours
+  - Level of Physical Health : > 75 minutes/day
   
   
 ### What did we learn from this project?
