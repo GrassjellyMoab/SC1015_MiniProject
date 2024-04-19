@@ -5,6 +5,9 @@ Our team's objective is to predict the likelihood of an individual suffering fro
      
 ### Contributors
 The code and slides were done together by all members.
+Jervis Tham Kai Kit 
+Yan Jun Chao
+Yap Yu Xuan
 
 ### Problem Definition
 Problem Definition: Finding out the reasons that will explain why people have high stress levels and experience sleep disorders. How do different variables affect the stress level and the likelihood of sleep disorders?
