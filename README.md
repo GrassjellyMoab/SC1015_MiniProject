@@ -4,10 +4,7 @@ This is a Mini Project for course code SC1015 (Introduction to Data Science and 
 Our team's objective is to predict the likelihood of an individual suffering from sleep disorder and high stress levels.
      
 ### Contributors
-The code and slides were done together by all members.
-Jervis Tham Kai Kit 
-Yan Jun Chao
-Yap Yu Xuan
+The code and slides were done together by all members: Jervis Tham Kai Kit, Yan Jun Chao & Yap Yu Xuan
 
 ### Problem Definition
 Problem Definition: Finding out the reasons that will explain why people have high stress levels and experience sleep disorders. How do different variables affect the stress level and the likelihood of sleep disorders?
