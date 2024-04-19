@@ -12,10 +12,10 @@ Problem Definition: Finding out the reasons that will explain why people have hi
 Motivation: Many of our peers are experiencing high levels of stress, while struggling with sleep disorders, and they get overwhelmed without knowing how to reduce it. As students, we are highly exposed to stress and to better manage it, it would be beneficial to know the factors that causes it.
 
 ### Variables Chosen from Data Set to be Used
-Sleep Duration (hours): The daily sleep duration of the participant in hours.
-Quality of Sleep (scale: 1-10): A subjective assessment of sleep quality on a scale from 1 to 10.
-Physical Activity Level (minutes/day): The daily duration of physical activity for the participant, measured in minutes.
-BMI Category: The participant's BMI classification (e.g., Underweight, Normal, Overweight).
+- Sleep Duration (hours): The daily sleep duration of the participant in hours.
+- Quality of Sleep (scale: 1-10): A subjective assessment of sleep quality on a scale from 1 to 10.
+- Physical Activity Level (minutes/day): The daily duration of physical activity for the participant, measured in minutes.
+- BMI Category: The participant's BMI classification (e.g., Underweight, Normal, Overweight).
 
 ### Models Used
   1. Logistic Regression
